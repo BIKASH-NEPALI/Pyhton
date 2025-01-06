@@ -1,0 +1,8 @@
+
+#string can be writeen in """ or'''
+name="bikash"
+nameshort= name[0:3]#start from index0 all the way excluding3
+print(nameshort)
+hustle="happyending"
+character1=hustle[2:5]
+print(character1)

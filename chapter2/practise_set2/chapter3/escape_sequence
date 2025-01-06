@@ -1,0 +1,9 @@
+a="harry is a good boy\n but not a bad boy"
+print(a)
+b="bikash is a human \n but no a \"robot\""
+print(b)
+# \n this escape sequence character is for new line
+# \"word\" this escape sequence is for print in "word"
+# \t this is for tab 
+_name="bikash\tnepali"
+print(_name)
