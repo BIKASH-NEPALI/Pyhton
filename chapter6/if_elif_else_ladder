@@ -1,0 +1,12 @@
+a=int(input("Enter obtained marks:\n"))
+if(a>90):
+    print("you got high marks")
+elif(a<0):
+    print("that's invalid marks")
+elif(a==0):
+    print("There is someting wrong")
+else:
+    print("you are average student")
+    
+print("Better luck next time")
+    
